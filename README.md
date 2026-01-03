@@ -33,7 +33,7 @@ Aplikasi ini memiliki dua keunggulan utama:
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/USERNAME_GITHUB/NAMA_REPO.git](https://github.com/USERNAME_GITHUB/NAMA_REPO.git)
+  https://github.com/23013041-collab/habit-tracker-app/blob/main/README.md
     ```
 
 2.  **Install Dependencies**
